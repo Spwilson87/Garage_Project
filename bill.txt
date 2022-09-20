@@ -1,0 +1,4 @@
+
+[('customer name: Dave', ' Vehicle type = Car')] Cost of repairs =[1100]
+[('customer name: Frank', ' Vehicle type = Motorbike')] Cost of repairs =[550]
+[('customer name: Joe', ' Vehicle type = Lorry')] Cost of repairs =[8060]

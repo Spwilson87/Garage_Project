@@ -1,0 +1,3 @@
+[('customer name: Dave', ' Vehicle type = Car')]
+[('customer name: Frank', ' Vehicle type = Motorbike')]
+[('customer name: Joe', ' Vehicle type = Lorry')]
