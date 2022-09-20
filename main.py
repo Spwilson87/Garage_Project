@@ -32,34 +32,3 @@ vehicle_list.close()
 
 
 
-
-
-
-
-
-
-# car1 = Car(input("colour"), int(input("num")), int(input("num")), input("True"), int(input("num")), input("type"))
-# car2 = Car("silver", 4, 12, False, 3, "mini")
-# print("cost of repairs =",car1.fixVehicle())
-# # print(car1.vehicleStatus())
-# print("cost of repairs =",car2.fixVehicle())
-# print(car2.vehicleStatus())
-
-# bike1 = Motorbike("blue", 2, 8, True, True, True)
-# bike2 = Motorbike("green", 2, 8, True, False, False)
-# print("cost of repairs =",bike1.fixVehicle())
-# print(bike1.vehicleStatus())
-
-# print("cost of repairs =",bike2.fixVehicle())
-# # print(bike2.vehicleStatus())
-
-# lorry1 = Lorry("black", 18, 18, False, 4, 10)
-# print("cost of repairs =",lorry1.fixVehicle())
-# print(lorry1.vehicleStatus())
-
-
-
-
-
-
-
